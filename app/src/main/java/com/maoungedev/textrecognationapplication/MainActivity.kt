@@ -113,8 +113,10 @@ class MainActivity : AppCompatActivity() {
 
         db.collection("text_recognition").document("text").set(data)
             .addOnSuccessListener {
+                Toast.makeText(this@MainActivity, "Scan Berhasil", Toast.LENGTH_SHORT).show()
             showDebugConsole("ADD SUCCESS", "Berhasil")
         }.addOnFailureListener {
+                Toast.makeText(this@MainActivity, "Scan Gagal", Toast.LENGTH_SHORT).show()
             showDebugConsole("ERROR DB", it.message.toString())
         }
     }
