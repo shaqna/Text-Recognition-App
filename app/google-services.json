@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90816651364",
+    "project_id": "text-recognation-application",
+    "storage_bucket": "text-recognation-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90816651364:android:2ac3f1268c0974f03fff71",
+        "android_client_info": {
+          "package_name": "com.maoungedev.textrecognationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90816651364-altckm8uh8b0g977qnp8h8vg2p8lp8uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-m5dkHtDMKxe_MFC-Ta1cjUTD-vmpKlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90816651364-altckm8uh8b0g977qnp8h8vg2p8lp8uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
