@@ -1,5 +1,8 @@
 # Text-Recognition-App
 
+## Tech Stach
+- Firebase ML Kit
+
 ## Screenshoots Screen 1
 
 ![Screenshot_2023-02-28-15-10-37-45_0a65a9062cb39b68ae94dda63ab27dcf](https://user-images.githubusercontent.com/85094525/221793923-1ed0eddf-bec6-48c1-ae32-e9ab166aaa83.jpg)
